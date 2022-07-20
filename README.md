@@ -1,5 +1,4 @@
 # Vulnerable-devices-against-Expelliarmus
-# Vulnerable-devices-against-Expelliarmus
 Detailed information about 29 vulnerable devices against Expelliarmus, a command cancellation attack on smartphones.
 This is a supplement to `Expelliarmus: Command Cancellation Attacks on Smartphones using Electromagnetic Interference' submitted to IEEE INFOCOM 2023. Extensive evaluations demonstrate the effectiveness of our proposed attack on 29 off-the-shelf touchscreen-based devices, including 24 smartphones, three tables, and two smartwatches. The project includes detailed information about vulnerable touchscreen-based devices as follow. Demos of our proof-of-concept attacks can be found [here](https://fanyi.baidu.com/).
 | Device   Name                           | OS                             | Screen   Manufacturer | Display Type      | Diagonal Size   (inches) | Resolution   (pixels)                | Pixel Density   (ppi) | Resonant   Frequency f_r (kHz) | Electric Field   Intensity E (V/m) | CCR   |
